@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## I'm Andile Ntebe
+**I'm Andile Ntebe**
 
 Red Teamer | InfoSec Leader | Cloud Security Specialist | Academy Instructor | Cyber Security Mentor | Content Creator
 
