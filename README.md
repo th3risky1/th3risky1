@@ -2,18 +2,18 @@
 
 **I'm Andile Ntebe**
 
-Red Teamer | InfoSec Leader | Cloud Security Specialist | Academy Instructor | Cyber Security Mentor | Content Creator
+Offensive Security Leader | Red Teamer | Cloud Security Specialist | Academy Instructor | Cyber Security Mentor | Content Creator
 
-CEH, Security+, NSE4, OSCP..., AWS SAA...,
+CEH, Security+, NSE4, AWS SAA, MCRTP...
 
 ![mouse](https://github.com/user-attachments/assets/37533243-4466-4dcb-a8d7-69b09667ed41)
 
 
-💻 I'm a Red Team Leader.
+💻 I'm an Offensive Security Leader.
 
 🏡 I’m from South Africa.
 
-📚 I'm currently learning all about and Security, Cloud and AI.
+📚 I am actively deepening my expertise in cybersecurity, cloud computing, and artificial intelligence, with a focus on integrating these domains to address complex, modern security challenges.
 
 ## Social Networks
 
